@@ -1,0 +1,11 @@
+body {
+    background: white url("images/Capture2.PNG");
+}
+
+.navbar {
+    border-radius: 0;
+}
+
+.navbar-brand {
+    font-family: 'Satisfy', cursive;
+}
